@@ -100,7 +100,7 @@ body {
   color: #2e2f42;
 }
 /* Images_section */
-.Images_main {
+.images_main {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -108,7 +108,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.Images_descrip {
+.images_descrip {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
