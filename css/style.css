@@ -168,5 +168,6 @@ body {
 .buttons:hover,
 .buttons:focus {
   background-color: #404bbf;
+  color: #ffffff;
   cursor: pointer;
 }
