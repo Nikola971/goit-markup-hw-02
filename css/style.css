@@ -42,13 +42,13 @@ body {
 .contacts_header {
   font-style: normal;
 }
-.Email_header {
+.email_header {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.Email_header:hover,
-.Email_header:focus {
+.email_header:hover,
+.email_header:focus {
   color: #404bbf;
 }
