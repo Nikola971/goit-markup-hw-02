@@ -114,3 +114,29 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
 }
+/* Team-main */
+.team_main {
+  background-color: #f4f4fd;
+}
+.team_head {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.list_team {
+  background-color: #ffffff;
+}
+.list_team_name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 0.02em;
+  color: #2e2f42;
+}
+.list_team_parah {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
